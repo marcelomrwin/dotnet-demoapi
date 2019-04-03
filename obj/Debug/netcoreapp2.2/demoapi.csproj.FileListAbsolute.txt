@@ -1,0 +1,14 @@
+/Users/marcelosales/desenvolvimento/workshops/sefazes/dotnet/demoapi/bin/Debug/netcoreapp2.2/demoapi.deps.json
+/Users/marcelosales/desenvolvimento/workshops/sefazes/dotnet/demoapi/bin/Debug/netcoreapp2.2/demoapi.runtimeconfig.json
+/Users/marcelosales/desenvolvimento/workshops/sefazes/dotnet/demoapi/bin/Debug/netcoreapp2.2/demoapi.runtimeconfig.dev.json
+/Users/marcelosales/desenvolvimento/workshops/sefazes/dotnet/demoapi/bin/Debug/netcoreapp2.2/demoapi.dll
+/Users/marcelosales/desenvolvimento/workshops/sefazes/dotnet/demoapi/bin/Debug/netcoreapp2.2/demoapi.pdb
+/Users/marcelosales/desenvolvimento/workshops/sefazes/dotnet/demoapi/obj/Debug/netcoreapp2.2/demoapi.csprojAssemblyReference.cache
+/Users/marcelosales/desenvolvimento/workshops/sefazes/dotnet/demoapi/obj/Debug/netcoreapp2.2/demoapi.csproj.CoreCompileInputs.cache
+/Users/marcelosales/desenvolvimento/workshops/sefazes/dotnet/demoapi/obj/Debug/netcoreapp2.2/demoapi.RazorAssemblyInfo.cache
+/Users/marcelosales/desenvolvimento/workshops/sefazes/dotnet/demoapi/obj/Debug/netcoreapp2.2/demoapi.RazorAssemblyInfo.cs
+/Users/marcelosales/desenvolvimento/workshops/sefazes/dotnet/demoapi/obj/Debug/netcoreapp2.2/demoapi.AssemblyInfoInputs.cache
+/Users/marcelosales/desenvolvimento/workshops/sefazes/dotnet/demoapi/obj/Debug/netcoreapp2.2/demoapi.AssemblyInfo.cs
+/Users/marcelosales/desenvolvimento/workshops/sefazes/dotnet/demoapi/obj/Debug/netcoreapp2.2/demoapi.RazorTargetAssemblyInfo.cache
+/Users/marcelosales/desenvolvimento/workshops/sefazes/dotnet/demoapi/obj/Debug/netcoreapp2.2/demoapi.dll
+/Users/marcelosales/desenvolvimento/workshops/sefazes/dotnet/demoapi/obj/Debug/netcoreapp2.2/demoapi.pdb
